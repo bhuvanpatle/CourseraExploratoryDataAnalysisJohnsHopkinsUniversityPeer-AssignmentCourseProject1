@@ -1,4 +1,4 @@
-# Histogram of Global Active Power
+## Histogram of Global Active Power 
 # Read in the power consumption dataset
 powerData <- read.table("./exdata_data_household_power_consumption/household_power_consumption.txt", 
                         header = TRUE, 
