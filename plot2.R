@@ -1,4 +1,4 @@
-# Time Series of Global Active Power
+## Time Series of Global Active Power
 # Read in the dataset
 powerData <- read.table("./exdata_data_household_power_consumption/household_power_consumption.txt", 
                         header = TRUE, 
